@@ -5,6 +5,7 @@ Bu Repostory'de Verilen Bir Dizinin Merge-Sort Algoritmasına Göre Aşamaları 
 
 ## Soru - 1
 **[16,21,11,8,12,22]**
+
 Yukarıda ki dizinin Merge-Sort Türüne Göre Aşamalarını Yazınız 
 
 **1.Aşama (Parçalama Aşaması)**
