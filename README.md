@@ -9,16 +9,16 @@ Yukarıda ki dizinin Merge-Sort Türüne Göre Aşamalarını Yazınız
 **1.Aşama (Parçalama Aşaması)**
 Bu aşamada verilen dizi en az iki veya daha az sayıda kalacak şekilde sürekli bölünür.
 
-1.[16,21,11]|[8,12,22]
+1.[16,21,11]--->[8,12,22]
 
-2.[16,21],[11],[8,12],[22]
+2.[16,21]--->[11]--->[8,12]-->[22]
 
 Dizinin parçalama işlemi bittikten sonra ikili veya birli gruplar kendi içlerinde kıyas edilirler ve dizi bölündüğü gibi
 kendi içinde tekrar sıralanarak birleştirilir.
 
 **2.Aşama (Birleştirme Aşaması)**
 
-1.[11,16,21], [8,12,22]
+1.[11,16,21]--->[8,12,22]
 
 2.[8,11,12,16,21,22]
 
