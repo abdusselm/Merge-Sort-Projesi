@@ -1,5 +1,6 @@
 # Merge-Sort-Projesi
 [Patika.Dev](https://www.patika.dev)
+
 Bu Repostory'de Verilen Bir Dizinin Merge-Sort Algoritmasına Göre Aşamaları Gösterilmektedir
 
 ## Soru - 1
@@ -7,6 +8,7 @@ Bu Repostory'de Verilen Bir Dizinin Merge-Sort Algoritmasına Göre Aşamaları 
 Yukarıda ki dizinin Merge-Sort Türüne Göre Aşamalarını Yazınız 
 
 **1.Aşama (Parçalama Aşaması)**
+
 Bu aşamada verilen dizi en az iki veya daha az sayıda kalacak şekilde sürekli bölünür.
 
 1.[16,21,11]--->[8,12,22]
